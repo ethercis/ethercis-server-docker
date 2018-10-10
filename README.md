@@ -1,3 +1,5 @@
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat-square)](https://gitter.im/Ripple-Foundation/General)
+
 # EtherCIS Server
 
 Dockerfile and customisation for the [EtherCIS Server](http://ethercis.org/)
