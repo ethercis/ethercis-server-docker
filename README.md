@@ -4,7 +4,7 @@
 ## Part of the RippleOSI EtherCIS docker environment
 
 Dockerfile and customisation for the [EtherCIS Server](http://ethercis.org/)
-Requires the EtherCIS DB to work
+Requires the [EtherCIS DB](https://github.com/RippleOSI/ethercis-database-docker) to work
 
 The two Docker images are packaged as separate repositories in order to enable Automated Builds on Docker Hub
 
